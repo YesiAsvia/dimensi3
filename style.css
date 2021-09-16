@@ -1,0 +1,116 @@
+.body{
+	font: 16px/28px arial, sans-serif;
+	background-color: #eaeaea;
+	color: #333333;
+}
+
+
+.container{
+	width: 90%;
+	margin: auto;
+	background-color: black;
+}
+
+.header {
+	padding:20px;
+	text-decoration-color: white;
+}
+.header .judul {
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.header ul li {
+	display: inline-block;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+
+.header a {
+	text-decoration :none;
+	color: white;
+	padding: 5px;
+}
+
+.header a:hover {
+	background-color: white;
+	color: white;
+}
+.header1 ul li {
+	display: inline-block;
+}
+
+.header1 a {
+	text-decoration :none;
+	color: black;
+	margin-right: 40px;
+}
+
+.header1 a:hover {
+	background-color: white;
+	color: white;
+}
+
+.bagian1{
+	width: 90%;
+	height: 530px;
+	background-color: black;
+	display: inline-block;
+}
+.bagian0{
+	width: 90%;
+	height: 125px;
+	background-color: white;
+	margin: 50px;
+	font-size: 30px;
+}
+.bagian20{
+	width: 90%;
+	height: 350px;
+	background-color: white;
+	margin: 50px;
+	font-size: 30px;
+}
+.bagian2{
+	width:20%;
+	height: 175px;
+	background-color: white;
+	display: inline-block;
+	margin: 50px;
+	font-size: 25px;
+}
+.bagian3{
+	width:20%;
+	height: 175px;
+	background-color: white;
+	display: inline-block;
+	margin: 50px;
+	font-size: 25px;
+}
+.bagian4{
+	width:20%;
+	height: 175px;
+	background-color: white;
+	display: inline-block;
+	margin: 50px;
+	font-size: 25px;
+}
+.klik1{
+	font-size:25px;
+	width: 120px;
+	padding: 0px;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 60px;
+	text-decoration:none; 
+	display: inline-block;
+	color: black;
+}
+
+
+.klik1:hover{
+	background-color: black;
+	color:white;
+	shape-image-threshold:  black;
+	text-decoration:none; 
+}
